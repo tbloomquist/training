@@ -1,3 +1,4 @@
 teb line 1
-teb line 2
+teb line 2 changed
 teb line 3
+teb line 4 added
