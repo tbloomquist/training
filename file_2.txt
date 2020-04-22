@@ -1,2 +1,3 @@
 teb file_2.txt line 1
 teb file_2.txt line 2
+teb added third line of text.
